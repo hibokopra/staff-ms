@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.staffsystem-C1220642' is invalid and this project uses 'com.example.staffsystem_C1220642' instead.
+* The original package name 'com.example.staffsystem-C1220642' is invalid and this project uses 'com.example.staffs' instead.
 
 # Getting Started
 
