@@ -38,7 +38,7 @@ public class StaffService {
         if (staffs.containsKey(id)) {
             Staff oldStaff = getById(id);
             oldStaff.setName(newSatff.getName());
-            oldStaff.setPhone(newSatff.getPhone());
+            oldStaff.setCity(newSatff.getCity());
             return newSatff;
         }
         else{
